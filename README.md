@@ -3,8 +3,8 @@
 This dataset appears to be related to restaurant information and includes the following columns:
 
 Key Columns and Their Descriptions:
-RestaurantID: A unique identifier for each restaurant.
-CountryCode: Numeric code representing the country (e.g., “1” could signify a specific country like India).
+- RestaurantID: A unique identifier for each restaurant.
+- CountryCode: Numeric code representing the country (e.g., “1” could signify a specific country like India).
 City: The city where the restaurant is located.
 Locality: A more localized area or neighborhood within the city.
 LocalityVerbose: Detailed description of the locality, including the city name.
