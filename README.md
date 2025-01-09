@@ -26,3 +26,6 @@ Observations:
 - The dataset provides a mix of geographical, operational, and customer feedback data.
 - It can be used to analyze restaurant distribution, pricing strategies, customer preferences, and trends over time.
 - The data is structured and well-suited for tasks like geographic mapping, cost analysis, and rating-based filtering.
+
+![Dashboard screenshot](https://github.com/user-attachments/assets/b99032a2-dd60-4a27-a08a-5e326274a937)
+
